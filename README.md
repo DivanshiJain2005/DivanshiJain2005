@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about A
 ## 👩‍💻 **About Me**
 
 - **Currently pursuing**: BTech in Computer Science & Engineering at NSUT
-- **Previous Internships**: Traqcheck, Crazygoldfish, Loopworm, and others
+- **Previous Internships**: Traqcheck, Oscowl AI, 2070 Health, and others
 - **Technical Skills**: Python, Java, PyTorch, TensorFlow, Django, LLMs (Whisper, Llama 2), RAG systems, Lexical Analysis, OCR (Tesseract), Image Classification, Naive Bayes & Bayesian Networks
 - **Passions**: Machine Learning, Natural Language Processing, AI-driven solutions, and competitive programming
 
