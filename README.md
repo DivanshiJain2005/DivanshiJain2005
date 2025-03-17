@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about A
 
 ## 📫 **Connect with Me**
 
-- **LinkedIn**: [Divanshi Jain](https://www.linkedin.com/in/divanshi-jain)
+- **LinkedIn**: [Divanshi Jain](https://www.linkedin.com/in/divanshi-jain-0b9451260/)
 - **Email**: divanshij06@gmail.com
 
 
