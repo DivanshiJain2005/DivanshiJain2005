@@ -8,7 +8,7 @@
 
 # Hey Everyone! :wave:
 
-### My name is Divanshi Jain, a Self-Taught Developer.
+### My name is Divanshi Jain a Self-Taught Developer.
 
 ### About me
 - :zap: I love Artificial Intelligence, Machine Learning, Software Development, and solving complex problems
@@ -58,9 +58,11 @@
 <p align=center>
   
   <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=DivanshiJain2005&theme=dark&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=DivanshiJain2005&theme=dark&hide_border=false&include_all_commits=false&count_private=true"><br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivanshiJain2005&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+    <img align="left" width=396 src="https://nirzak-streak-stats.vercel.app/?user=DivanshiJain2005&theme=dark&hide_border=false">
+    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=DivanshiJain2005&theme=dark&hide_border=false&include_all_commits=false&count_private=true"><br> <br><br><br><br><br><br><br>
+    <div align=center>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivanshiJain2005&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+    </div>
   </p>
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivanshiJain2005&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
